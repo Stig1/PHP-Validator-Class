@@ -45,8 +45,3 @@ The available rules are:
 * email		- validate using filter_var($var, FILTER_VALIDATE_EMAIL)
 
 To set values for the min/max rules use the format "rule=value" like "min=5, max=15". A comma is used to separate each value.
-
-Licensing
------------
-
-Feel free to use, change and distribute as wanted.
